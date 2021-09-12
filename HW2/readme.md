@@ -20,6 +20,8 @@ Q3
 3. For problem 3, implementing a nonparametric methods with Pokemon.
    
 
+
+
 The files needs to be in the same directory as dataset.
 One should create a 'result_1' folder with subfolder 1,2,3, for example:
 result_1/1
