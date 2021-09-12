@@ -17,7 +17,7 @@ Q3
 
    ![image](https://user-images.githubusercontent.com/42642215/132987914-064c1f13-e0fa-415b-9a65-02543438c4c2.png)
 
-3. 
+3. For problem 3, implementing a nonparametric methods with Pokemon.
    
 
 The files needs to be in the same directory as dataset.
